@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/VictorCortez358/CatWiki">
       Solution
     </a>
     <span> | </span>
@@ -25,8 +25,6 @@
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
-
-- [Overview](#overview)
   - [Built With](#built-with)
 - [Features](#features)
 - [How to use](#how-to-use)
